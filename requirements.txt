@@ -1,0 +1,5 @@
+Flask
+psycopg2-binary
+pydantic
+SQLAlchemy==1.4.48
+python-dotenv
